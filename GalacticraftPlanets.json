@@ -1,0 +1,52 @@
+{
+    "authors": {
+        "Author": [
+            "Micdoodle8"
+        ]
+    },
+
+    "description": "Add mars to galacticraft",
+    "formatVersion": 1,
+    "license": "GPL 3.0",
+    "modId": "GalacticraftMars",
+    "name": "Galacticraft Planets",
+    "repo": "tf.minewolf",
+	
+    "uid": "micdoodle8.galacticraft.planets",
+	
+    "updateUrl": "github://regis9000pro@QM-Test/GalacticraftPlanets.json",
+    "urls": {
+        "icon": [
+            "http://micdoodle8.com/images/icons/galacticraft.png"
+        ],
+        "logo": [
+            "http://img2.wikia.nocookie.net/__cb20130618232246/galacticraft/images/thumb/6/69/Minecraft_Mod_Showcase_Galacticraft_-_Launch_to_the_Moon_in_Minecraft!/425px-Minecraft_Mod_Showcase_Galacticraft_-_Launch_to_the_Moon_in_Minecraft!.jpg"
+        ],
+        "website": [
+            "http://micdoodle8.com/mods/galacticraft"
+        ]
+    },
+    "versions": [
+        {
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "3.0.0.149 BETA",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "micdoodle8.core",
+                    "version": "3.0.0.149 BETA"
+                }
+            ],
+            "type": "BETA",
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://micdoodle8.com/download?R2FsYWN0aWNyYWZ0LVBsYW5ldHMtQkVUQS0xLjctMy4wLjAuMTQ5Lmphcj9odHRwOi8vY2kubWljZG9vZGxlOC5jb20vam9iL0dhbGFjdGljcmFmdC0xLjcvMTQ5L2FydGlmYWN0L0ZvcmdlL2J1aWxkL2xpYnMvR2FsYWN0aWNyYWZ0LVBsYW5ldHMtQkVUQS0xLjctMy4wLjAuMTQ5Lmphcg=="
+                }
+            ]
+        },
+    ]
+}

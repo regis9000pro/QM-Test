@@ -1,0 +1,53 @@
+{
+    "authors": {
+        "Author": [
+            "Micdoodle8"
+        ]
+    },
+
+    "description": "To the space !!",
+    "formatVersion": 1,
+    "license": "GPL 3.0",
+    "modId": "GalacticraftCore",
+    "name": "Galacticraft Core",
+    "repo": "tf.minewolf",
+	
+    "uid": "micdoodle8.galacticraft.core",
+	
+    "updateUrl": "github://regis9000pro@QM-Test/Galacticraft.json",
+    "urls": {
+        "icon": [
+            "http://micdoodle8.com/images/icons/galacticraft.png"
+        ],
+        "logo": [
+            "http://img2.wikia.nocookie.net/__cb20130618232246/galacticraft/images/thumb/6/69/Minecraft_Mod_Showcase_Galacticraft_-_Launch_to_the_Moon_in_Minecraft!/425px-Minecraft_Mod_Showcase_Galacticraft_-_Launch_to_the_Moon_in_Minecraft!.jpg"
+        ],
+        "website": [
+            "http://micdoodle8.com/mods/galacticraft"
+        ]
+    },
+    "versions": [
+        {
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "3.0.0.149 BETA",
+            "references": [
+                {
+                    "type": "depends",
+                    "uid": "micdoodle8.core",
+                    "version": "3.0.0.149 BETA"
+                }
+            ],
+            "sha1": "4EE99F3302DA3D2BFB360700EFA53757CAAEC0E2",
+            "type": "BETA",
+            "urls": [
+                {
+                    "downloadType": "sequential",
+                    "url": "http://micdoodle8.com/download?R2FsYWN0aWNyYWZ0Q29yZS1CRVRBLTEuNy0zLjAuMC4xNDkuamFyP2h0dHA6Ly9jaS5taWNkb29kbGU4LmNvbS9qb2IvR2FsYWN0aWNyYWZ0LTEuNy8xNDkvYXJ0aWZhY3QvRm9yZ2UvYnVpbGQvbGlicy9HYWxhY3RpY3JhZnRDb3JlLUJFVEEtMS43LTMuMC4wLjE0OS5qYXI="
+                }
+            ]
+        },
+    ]
+}

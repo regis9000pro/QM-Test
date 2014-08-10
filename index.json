@@ -1,0 +1,48 @@
+{
+    "authors": {
+        "Author": [
+            "regis9000pro"
+        ]
+    },
+    "categories": [
+        "Modpacks"
+    ],
+    "description": "Test Pack pour la 1.7.10",
+    "formatVersion": 1,
+    "license": "GPL 3.0",
+    "name": "1.7.10",
+    "repo": "tf.minewolf",
+    "tags": [
+        "tech"
+    ],
+    "uid": "tf.minewolf.ultimatePack",
+    "versions": [
+        {
+            "installType": "group",
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.0",
+            "references": [
+            ],
+            "type": "Release"
+        }
+    ],
+	
+	
+    "baseUrl": "github://regis9000pro@QM-Test/",
+    "index": [
+    {
+        "uid": "micdoodle8.galacticraft.core",
+        "url": "Galacticraft.json"
+    },
+    {
+        "uid": "micdoodle8.galacticraft.planets",
+        "url": "GalacticraftPlanets.json"
+    },
+    {
+        "uid": "micdoodle8.core",
+        "url": "MicdoodleCore.json"
+    },
+    ]
+}
